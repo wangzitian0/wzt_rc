@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Maple's Vim config
 ==================
 
@@ -252,3 +253,7 @@ Other configurations are also well organized in vimrc.
 * Compeletions are not well supported for statically typed languages(c/c++)
 * Snippets are not shown in completions popups
 * May has some conflicts with GVIM
+=======
+# wzt_rc
+my rc files
+>>>>>>> 6beaa0c68baf7dcd86ab216cafd49feb57a9d389
